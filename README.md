@@ -2,13 +2,13 @@
 Small initiation in Python to learn how to work with fingerprints files.
 
 
-##Install
+## Install
 ```
 sudo pip3 install --upgrade pip
 sudo pip3 install jupyter
 ```
 
-##Start Jupyter
+## Start Jupyter
 ```
 jupyter notebook
 ```
